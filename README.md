@@ -1,5 +1,6 @@
 # WeatherAssistant
 App para consulta y pronóstico de hasta 15 días del clima, creación de eventos y alarmas.
+
 +Usar la API de [OpenWeatherMap](http://openweathermap.org/)  para información del clima.
 +Login con facebook.
 +Sincronización de eventos creados con el Calendar de android.
