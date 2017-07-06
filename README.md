@@ -13,6 +13,7 @@
 - WebService para que almacene los eventos en internet y no se quede localmente.
 - Selección de evento específico en el reporte de eventos para poder sincronizar esos datos con el Calendar.
 - En creación de eventos seleccionar el tipo de Evento que se quiere crear para sincronizar con Calendar, puede ser Recordatorio, Evento, Meta o hasta cumpleaños.
+- Corregir lo del BitMap de foto de perfil para el drawer.
 - Optimizar y ordenar todo el código (se ve feo porque lo hice todo rápido)
 
 ![drawer](http://i.imgur.com/1Bix6VW.jpg)
